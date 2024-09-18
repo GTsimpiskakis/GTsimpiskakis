@@ -1,8 +1,5 @@
 <h1 align="center"> Georgios Tsimpiskakis</h1>
 <h3 align="center">A Civil Engineer passionated with Python</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gtsimpiskakis" alt="gtsimpiskakis" /></a> </p>
-
 - 🔭 I’m currently working on **Scan-vs-BIM**
 
 - 🌱 I’m currently learning **Python**
